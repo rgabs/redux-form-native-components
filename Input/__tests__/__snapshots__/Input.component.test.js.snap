@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FormComponent: Input component renders correctly 1`] = `
+<View>
+  <View
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#ededed",
+          "marginTop": 10,
+        },
+        Object {},
+      ]
+    }
+  >
+    <TextInput
+      editable={true}
+      onBlur={[Function]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      placeholderTextColor={undefined}
+      style={
+        Array [
+          Object {
+            "color": "#000",
+            "fontSize": 16,
+            "fontWeight": "300",
+            "height": 50,
+            "padding": 10,
+          },
+          Object {},
+        ]
+      }
+      underlineColorAndroid="transparent"
+      value={undefined}
+    />
+  </View>
+</View>
+`;
